@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Enter Your Session ID",
+      "description": "A-S-W-I-N-S-P-A-R-K-Y:1f4708e3b23bfaf36904a27696741b41",
       "required": true
     },
     "HANDLER": {
@@ -23,11 +23,11 @@
     },
     "HEROKU_APP_NAME": {
       "description": "Enter Your Heroku App Name Same As Above You Entered",
-      "required": true
+      "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Enter Your Heroku Account Api Key. Get It From https://dashboard.heroku.com/account",
-      "required": true
+      "required": false
     },
     "STICKER_DATA": {
       "description": "Enter Your Sticker PackName And Author Name",
